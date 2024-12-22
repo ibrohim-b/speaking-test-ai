@@ -1,0 +1,269 @@
+start_message: |
+  Hi <b>{username}</b>. 
+  This is Speaking Test AI bot that help you to see your English-speaking level for IELTS and TOEFL exams
+helpful_materials: |
+  <b>🎙️ Speaking Test AI Bot</b>
+  
+  ✨ Prepare effectively for the Speaking sections of both IELTS and TOEFL with the resources and tips below. Learn what to expect, and practice with confidence to achieve your dream score!  
+  
+  <b>📌 IELTS Speaking Overview:</b>  
+  The IELTS Speaking test is a face-to-face interview with an examiner, lasting 11–14 minutes. It is divided into three parts:  
+  - <b>Part 1 (Introduction & Interview):</b> Answer questions about yourself, your work, studies, and interests.  
+  - <b>Part 2 (Cue Card):</b> Speak for 1–2 minutes on a given topic after 1 minute of preparation.  
+  - <b>Part 3 (Discussion):</b> Engage in a deeper discussion related to the cue card topic.  
+  
+  <b>📚 Helpful Resources:</b>  
+  1️⃣ <a href="https://ielts.org/news-and-insights/demystifying-the-ielts-speaking-test">Official IELTS Speaking Format</a> – Understand the test structure and expectations.  
+  2️⃣ <a href="https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-english-practice-tests/speaking">British Council Speaking Practice Tests</a> – Try real IELTS-style questions.  
+  3️⃣ <a href="https://www.cambridgeenglish.org/exams-and-tests/ielts/">Cambridge IELTS Speaking Guide</a> – Learn strategies for handling different types of questions.  
+  4️⃣ <a href="https://www.youtube.com/watch?v=eDg8Cu0--pM&list=PLdawRnR9ilZBWJsnzHhkzFywWmwhvqlWD">IELTS Speaking Practice Videos</a> – Watch sample answers and tips from experts.  
+  
+  <b>💡 Tips for IELTS Speaking:</b>  
+  - Speak clearly and confidently. Focus on fluency, not perfection.  
+  - Expand your answers. Avoid one-word replies; give examples and reasons.  
+  - Practice speaking on common topics like travel, hobbies, and education.  
+  
+  <b>📌 TOEFL Speaking Overview:</b>  
+  The TOEFL Speaking section is conducted via a computer and lasts 17 minutes. It has four tasks:  
+  - <b>Task 1 (Independent Speaking):</b> Express your opinion on a familiar topic.  
+  - <b>Tasks 2–4 (Integrated Speaking):</b> Combine your listening, reading, and speaking skills to respond to academic and everyday scenarios.  
+  
+  <b>📚 Helpful Resources:</b>  
+  1️⃣ <a href="https://www.ets.org/toefl/test-takers/ibt/about/content/speaking/">Official TOEFL Speaking Overview</a> – Learn about the format and scoring criteria.  
+  2️⃣ <a href="https://www.ets.org/pdfs/toefl/toefl-ibt-speaking-practice-sets.pdf">ETS TOEFL Speaking Sample Questions</a> – Practice with real questions from ETS.  
+  3️⃣ <a href="https://www.examenglish.com/TOEFL/toefl_speaking_study_secrets.html">Exam English TOEFL Speaking Guide</a> – Get insights into integrated and independent tasks.  
+  4️⃣ <a href="https://www.youtube.com/watch?v=3Fs952PySUA&list=PL5S1hU9_MNCiuxJlIlrFxQbtX15FgRVy8">TOEFL Speaking Videos</a> – Watch guide how to get high-scoring answers.  
+  
+  <b>💡 Tips for TOEFL Speaking:</b>  
+  - Take quick notes during the preparation time for integrated tasks.  
+  - Use a clear structure: introduction, main points, and conclusion.  
+  - Practice speaking within the time limits (45–60 seconds per response).  
+  
+  <b>🚀 General Tips for Both Exams:</b>  
+  1. Record yourself while practicing and review your fluency, grammar, and pronunciation.  
+  2. Use a timer to simulate test conditions and improve time management.  
+  3. Expand your vocabulary to talk confidently about various topics.  
+  4. Speak aloud every day, even if it’s just narrating your day or describing objects around you.  
+  
+  Good luck on your journey to mastering IELTS and TOEFL Speaking! 💪  
+
+
+
+ielts:
+  info: |
+    <b>🎤 Overview of the IELTS Speaking Test</b>
+    
+    The IELTS Speaking test is a <b>face-to-face interview</b> that lasts <b>11–14 minutes</b> and consists of three parts:  
+    
+    1️⃣ <b>Introduction and Interview</b> (<u>4–5 minutes</u>):  
+       🗣️ General questions about <b>yourself</b>, <b>your home</b>, <b>family</b>, <b>studies</b>, or <b>interests</b>.  
+    
+    2️⃣ <b>Long Turn</b> (<u>3–4 minutes</u>):  
+       🗣️ Speak for <b>1–2 minutes</b> on a given topic after <b>1 minute of preparation</b>.  
+    
+    3️⃣ <b>Discussion</b> (<u>4–5 minutes</u>):  
+       🗣️ Engage in a <b>two-way discussion</b> with the examiner on <b>abstract ideas</b> or <b>issues</b> related to the topic from Part 2.  
+    
+    ---
+  
+    <b>Assessment Criteria</b>  
+    The examiner evaluates your:  
+    ✔️ <b>Fluency and Coherence</b>  
+    ✔️ <b>Vocabulary</b>  
+    ✔️ <b>Grammar</b>  
+    ✔️ <b>Pronunciation</b>  
+    
+    ---
+    
+    📢 <b>Important:</b> All your answers must be sent as a <b>VOICE MESSAGE</b>. 🎙️  
+    
+    Good luck! 🌟
+
+  reading_and_writing: |  
+    <b>📝 IELTS Reading Overview</b>  
+    ⏱️ <b>Time:</b> 60 minutes  
+    📄 <b>Format:</b> 3 sections with 40 questions.  
+    
+    💡 <b>Tips:</b>  
+    1️⃣ Skim the text to get the main idea quickly.  
+    2️⃣ Manage your time—don’t spend too long on one question.  
+    3️⃣ Answer every question (there’s no penalty for wrong answers).  
+    
+    ---
+    
+    <b>✍️ IELTS Writing Overview</b>  
+    ⏱️ <b>Time:</b> 60 minutes (Task 1: 20 mins, Task 2: 40 mins)  
+    📄 <b>Format:</b>  
+    - <b>Task 1 (150 words):</b> Academic: Describe a chart, graph, or diagram. General: Write a letter.  
+    - <b>Task 2 (250 words):</b> Write an essay giving an opinion or discussing a problem.  
+    
+    💡 <b>Tips:</b>  
+    1️⃣ Plan before writing—organize your ideas for clarity.  
+    2️⃣ Use a structured format (introduction, body paragraphs, conclusion).  
+    3️⃣ Review your writing for grammar, vocabulary, and spelling errors.  
+    
+    ---
+    
+    ⚠️ <b>Note:</b> As this bot is in <b>BETA TEST</b>, you will receive PDF files with:  
+    📄 Writing and Reading tasks.  
+    ✅ Answer key PDFs for self-checking.  
+    
+    <b>Good luck! 🌟</b>
+  first_part: |
+    <b>🎤 IELTS Speaking Part 1 Overview</b>
+    <b>⏱️ Time:</b> 4–5 minutes
+    <b>💬 Format:</b> Answer 8 simple questions about familiar topics (e.g., hometown, hobbies, daily routine).
+  second_part: |
+    <b>🎤 IELTS Speaking Part 2 + Follow-Up Questions</b>  
+
+    ⏱️ <b>Part 2 Time:</b> 1 minute to prepare, 1–2 minutes to speak.  
+    💡 <b>Task:</b> Talk about the given topic (cover all points on the task card).  
+
+    ⏱️ <b>Follow-Up Questions:</b> 1–2 minutes.  
+    💬 <b>Discussion:</b> The examiner will ask 2–4 related questions to explore the topic further.  
+
+    <b>Tips for Success:</b>  
+    1️⃣ <b>Use the preparation time</b> to jot down key ideas.  
+    2️⃣ <b>Speak clearly and stay on topic</b>—add examples for detail.  
+    3️⃣ <b>Be opinionated</b> in follow-ups; explain your thoughts confidently.  
+
+    <b>Good luck! 🌟</b>
+  third_part: |
+    <b>🎤 IELTS Speaking Part 3: Discussion</b>  
+
+    ⏱️ <b>Time:</b> 4–5 minutes  
+    💬 <b>Format:</b> A two-way discussion with the examiner on <i>abstract ideas</i> or <i>issues</i> related to Part 2.  
+
+    <b>Tips for Success:</b>  
+    1️⃣ <b>Expand Your Answers:</b> Provide reasons, examples, and explanations.  
+    2️⃣ <b>Be Logical:</b> Organize your ideas clearly.  
+    3️⃣ <b>Express Opinions:</b> Share your views confidently and back them up.  
+
+    💡 <b>Example Questions</b> (Topic: Role Models):  
+    - Why do people need role models?  
+    - Are celebrities good role models?  
+    - How has the idea of a role model changed over time?  
+
+    <b>Good luck! 🌟</b>
+toefl:
+  info: |
+    Here's the text for TOEFL Speaking, formatted for Telegram HTML:
+
+    <b>🎤 Overview of the TOEFL Speaking Test</b>
+
+    The TOEFL Speaking test assesses your ability to communicate effectively in English. It consists of <b>four parts</b>, each with a different focus: 
+
+    1️⃣ <b>Independent Speaking (Task 1)</b> (<u>45 seconds</u>): 
+       🗣️ Respond to a simple question about your preferences or experiences. 
+
+    2️⃣ <b>Independent Speaking (Task 2)</b> (<u>1 minute</u>): 
+       🗣️ Respond to a question about your opinions or experiences.
+
+    3️⃣ <b>Integrated Speaking (Task 3)</b> (<u>1 minute</u>): 
+       🗣️ You'll hear a short conversation and read a passage related to the conversation. Then, you'll summarize both and state your opinion.
+
+    4️⃣ <b>Integrated Speaking (Task 4)</b> (<u>1 minute</u>): 
+       🗣️ You'll listen to a short lecture and then answer a question about it.
+
+    ---
+
+    <b>Assessment Criteria</b>  
+    Your responses are evaluated based on:  
+    ✔️ <b>Delivery</b>: Pronunciation, intonation, and fluency 
+    ✔️ <b>Language Use</b>: Grammar, vocabulary, and cohesion 
+    ✔️ <b>Task Fulfillment</b>: How well you address the prompt and provide relevant information
+
+    ---
+
+    📢 <b>Important:</b> All your answers must be sent as a <b>VOICE MESSAGE</b>. 🎙️  
+
+    Good luck! 🌟
+  reading_and_writing: |
+    <b>📝 TOEFL Reading Overview</b> 
+    ⏱️ <b>Time:</b> 60 minutes 
+    📄 <b>Format:</b> 3-4 reading passages with 36-56 questions. 
+
+    💡 <b>Tips:</b> 
+    1️⃣ Skim each passage to get the main idea quickly.
+    2️⃣ Identify the key information and supporting details.
+    3️⃣ Manage your time effectively.
+    4️⃣ Answer all questions, even if you are unsure. There is no penalty for incorrect answers. 
+
+    ---
+
+    <b>✍️ TOEFL Writing Overview</b> 
+    ⏱️ <b>Time:</b> 50 minutes 
+    📄 <b>Format:</b> 
+    - <b>Independent Writing (Task 1):</b> 20 minutes 
+        * Express an opinion on a familiar topic.
+    - <b>Integrated Writing (Task 2):</b> 30 minutes
+        * Listen to a short lecture and read a related passage. 
+        * Summarize the lecture and passage, and state your opinion.
+
+    💡 <b>Tips:</b> 
+    1️⃣ Plan your response before writing.
+    2️⃣ Use clear and concise language.
+    3️⃣ Support your opinions with relevant examples and evidence.
+    4️⃣ Review your work for grammar, vocabulary, and spelling errors. 
+
+    ---
+
+    ⚠️ <b>Note:</b> As this bot is in <b>BETA TEST</b>, you will receive PDF file with: 
+    📄 Sample Writing and Reading tasks and Answer key for self-checking
+
+    <b>Good luck! 🌟</b>
+
+  first_part: |
+    <b>🎤 TOEFL Speaking Part 1 Overview</b>
+    <b>⏱️ Time:</b> 45 seconds
+    <b>💬 Format:</b> Respond to a simple question about your preferences or experiences.
+  second_part: |
+    <b>🎤 TOEFL Speaking Part 2 Overview</b>
+    <b>⏱️ Time:</b> 1 minute 
+    <b>💬 Format:</b> 
+        * You'll be given a card with a topic to speak about. 
+        * You'll have <b>15 seconds</b> to prepare your response.
+        * You'll then have <b>1 minute</b> to speak continuously about the topic. 
+
+    <b>Tips for Success:</b>
+
+    1️⃣ <b>Plan briefly:</b> Use the 15-second preparation time to organize your thoughts. 
+    2️⃣ <b>Speak clearly and confidently:</b> Maintain a natural pace and avoid long pauses.
+    3️⃣ <b>Use a variety of vocabulary and grammatical structures:</b> Demonstrate your English proficiency.
+    4️⃣ <b>Stay on topic:</b> Focus on the specific question or prompt.
+    
+    <b>Good luck! 🌟</b>
+  third_part: |
+    <b>🎤 TOEFL Speaking Part 3 Overview</b>
+    <b>⏱️ Time:</b> 1 minute 
+    <b>💬 Format:</b>
+        * You'll hear a short conversation between two students. 
+        * You'll read a passage related to the conversation.
+        * You'll summarize both the conversation and the reading.
+        * You'll state your opinion on the topic discussed.
+
+    <b>Tips for Success:</b>
+    
+    1️⃣ <b>Listen carefully:</b> Pay close attention to the key points in the conversation.
+    2️⃣ <b>Read actively:</b> Identify the main ideas and supporting details in the reading passage.
+    3️⃣ <b>Organize your response:</b> Summarize the conversation and reading concisely and logically.
+    4️⃣ <b>Express your opinion clearly and support it with reasons:</b> Use appropriate vocabulary and grammar.
+    5️⃣ <b>Practice active listening and note-taking skills:</b> This will help you process the information effectively.
+  
+    <b>Good luck! 🌟</b>
+  fourth_part: |
+    <b>🎤 TOEFL Speaking Part 4 Overview</b>
+    <b>⏱️ Time:</b> 1 minute 
+    <b>💬 Format:</b>
+        * You'll listen to a short lecture from a university professor. 
+        * You'll answer a question about the lecture.
+
+    <b>Tips for Success:</b>
+    
+    1️⃣ <b>Listen attentively:</b> Pay close attention to the main points, supporting details, and any examples provided by the professor.
+    2️⃣ <b>Take brief notes:</b> Jot down key words and phrases to help you remember the information.
+    3️⃣ <b>Paraphrase the lecture:</b> Explain the main ideas in your own words to demonstrate your understanding.
+    4️⃣ <b>Answer the question directly:</b> Make sure your response addresses the specific question asked.
+    5️⃣ <b>Use appropriate academic language:</b> Incorporate relevant vocabulary and grammar from the lecture.
+  
+    <b>Good luck! 🌟</b>
